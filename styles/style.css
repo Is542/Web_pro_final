@@ -1,0 +1,23 @@
+#head{
+  background-color: rgba(169, 206, 251, 0.5);
+  padding: 50px 0px 30px 0px;
+  margin:auto
+}
+
+#ta{
+  margin:auto
+}
+
+#table1{
+  width = 30%
+}
+
+#tavle2{
+  width = 50%
+}
+
+body{
+  margin: 0 auto;
+  background-color: rgba(225, 237, 252, 0.485);
+  text-align:center;
+}
